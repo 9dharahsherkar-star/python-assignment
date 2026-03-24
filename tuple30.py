@@ -1,5 +1,5 @@
 #assignment3
-tup1=("shivanee","pattanaik",34)
+tup1=("harsh","sherkar",30)
 tup2=(1,2,3,4)
 print(tup1)
 print(tup2)
